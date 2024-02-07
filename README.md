@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Lulukk75
-- 👀 I’m interested in android 
-- 🌱 I’m currently learning pos
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.instagram.com/luluk.k/
 
 <!---
